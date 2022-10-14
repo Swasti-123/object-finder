@@ -1,0 +1,21 @@
+body{
+    background-color: aquamarine;
+}
+
+#object{
+    width: 240px;
+}
+
+.copy_right_footer{
+    width: 100%;
+    background-color: white;
+    border-radius: 20px;
+    bottom: 0px;
+    position: fixed;
+    line-height: 3;
+}
+
+.heading{
+font-size: 30px;
+}
+

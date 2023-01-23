@@ -19,3 +19,6 @@ body{
 font-size: 30px;
 }
 
+canvas{
+    border: 10px rgb(68, 67, 67) ridge;
+}
